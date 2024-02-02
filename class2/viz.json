@@ -1,0 +1,84 @@
+{
+	"pattrstorage" : 	{
+		"name" : "viz",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"attrui" : [ "erase_color", 0.0, 0.0, 0.0, 1.0 ],
+					"umenu" : [ 1 ],
+					"grabbr::grabbrcontrols::vdevnum[1]" : [ 0 ],
+					"grabbr::grabbrcontrols::viewsize" : [ 0.0 ],
+					"grabbr::grabbrcontrols::formatnum[1]" : [ 0 ],
+					"playr::playercontrols::play-mult" : [ 0 ],
+					"playr::playercontrols::Playback_range" : [ 0.0, 1.0 ],
+					"playr::playercontrols::Speed_hi" : [ 1.0 ],
+					"playr::playercontrols::Speed_low" : [ 1.0 ],
+					"xfadr[1]::xfade-value" : [ 0.822834645669291 ],
+					"freezr::invert" : [ 0 ],
+					"freezr::palette" : [ 0 ],
+					"freezr::plane" : [ 2 ],
+					"zamplr::colormode" : [ 0.0 ],
+					"zamplr::gain" : [ 4.0 ],
+					"zamplr::horizontal" : [ 1.0 ],
+					"zamplr::vertical" : [ 1.0 ],
+					"zamplr::mode" : [ 2.0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"attrui" : [ "erase_color", 1.0, 1.0, 1.0, 1.0 ],
+					"umenu" : [ 2 ],
+					"grabbr::grabbrcontrols::vdevnum[1]" : [ 0 ],
+					"grabbr::grabbrcontrols::viewsize" : [ 0.0 ],
+					"grabbr::grabbrcontrols::formatnum[1]" : [ 0 ],
+					"playr::playercontrols::play-mult" : [ 0 ],
+					"playr::playercontrols::Playback_range" : [ 0.0, 1.0 ],
+					"playr::playercontrols::Speed_hi" : [ 1.0 ],
+					"playr::playercontrols::Speed_low" : [ 1.0 ],
+					"xfadr[1]::xfade-value" : [ 0.822834645669291 ],
+					"freezr::invert" : [ 0 ],
+					"freezr::palette" : [ 0 ],
+					"freezr::plane" : [ 0 ],
+					"zamplr::colormode" : [ 0.0 ],
+					"zamplr::gain" : [ 4.0 ],
+					"zamplr::horizontal" : [ 0.0 ],
+					"zamplr::vertical" : [ 1.0 ],
+					"zamplr::mode" : [ 2.0 ]
+				}
+
+			}
+,
+			"5" : 			{
+				"id" : 5,
+				"data" : 				{
+					"attrui" : [ "erase_color", 0.0, 0.0, 0.0, 1.0 ],
+					"umenu" : [ 1 ],
+					"grabbr::grabbrcontrols::vdevnum[1]" : [ 0 ],
+					"grabbr::grabbrcontrols::viewsize" : [ 0.0 ],
+					"grabbr::grabbrcontrols::formatnum[1]" : [ 0 ],
+					"playr::playercontrols::play-mult" : [ 0 ],
+					"playr::playercontrols::Playback_range" : [ 0.0, 1.0 ],
+					"playr::playercontrols::Speed_hi" : [ 1.0 ],
+					"playr::playercontrols::Speed_low" : [ 1.0 ],
+					"xfadr[1]::xfade-value" : [ 0.0 ],
+					"freezr::invert" : [ 0 ],
+					"freezr::palette" : [ 0 ],
+					"freezr::plane" : [ 2 ],
+					"zamplr::colormode" : [ 0.0 ],
+					"zamplr::gain" : [ 4.0 ],
+					"zamplr::horizontal" : [ 1.0 ],
+					"zamplr::vertical" : [ 0.228346456692913 ],
+					"zamplr::mode" : [ 2.0 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

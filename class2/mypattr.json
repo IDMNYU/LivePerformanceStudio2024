@@ -1,0 +1,35 @@
+{
+	"pattrstorage" : 	{
+		"name" : "mypattr",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"attrui" : [ "boundmode", 1 ],
+					"attrui[1]" : [ "offset_x", 268 ],
+					"slider" : [ 98 ],
+					"slider[1]" : [ 25 ],
+					"dial" : [ 67 ],
+					"number" : [ 0.086999997496605 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"attrui" : [ "boundmode", 1 ],
+					"attrui[1]" : [ "offset_x", 937 ],
+					"slider" : [ 27 ],
+					"slider[1]" : [ 121 ],
+					"dial" : [ 67 ],
+					"number" : [ 0.086999997496605 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

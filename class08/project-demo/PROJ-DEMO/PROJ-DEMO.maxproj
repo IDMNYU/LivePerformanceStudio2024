@@ -2,7 +2,7 @@
 	"name" : "PROJ-DEMO",
 	"version" : 1,
 	"creationdate" : 3793301853,
-	"modificationdate" : 3793302794,
+	"modificationdate" : 3793304295,
 	"viewrect" : [ 114.0, 184.0, 300.0, 500.0 ],
 	"autoorganize" : 1,
 	"hideprojectwindow" : 0,
@@ -24,15 +24,6 @@
 		}
 ,
 		"media" : 		{
-			"Polywood_08_MJPEG.mov" : 			{
-				"kind" : "moviefile",
-				"local" : 1
-			}
-,
-			"Polywood_02_MJPEG.mov" : 			{
-				"kind" : "moviefile",
-				"local" : 1
-			}
 
 		}
 

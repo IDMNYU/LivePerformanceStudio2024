@@ -1,0 +1,141 @@
+{
+	"pattrstorage" : 	{
+		"name" : "josh-vsynth-demo",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"vs_output::lowl_x" : [ 0.0 ],
+					"vs_output::lowl_y" : [ 1.0 ],
+					"vs_output::lowr_x" : [ 1.0 ],
+					"vs_output::lowr_y" : [ 1.0 ],
+					"vs_output::uppl_x" : [ 0.0 ],
+					"vs_output::uppl_y" : [ 0.0 ],
+					"vs_output::uppr_x" : [ 1.0 ],
+					"vs_output::uppr_y" : [ 0.0 ],
+					"vs_wfg_2::wfg2_freq_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_fm_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_pm_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_fm" : [ 0.023622047244094 ],
+					"vs_wfg_2::wfg2_freq" : [ 56.220472440944881 ],
+					"vs_wfg_2::wfg2_phase" : [ 0.0 ],
+					"vs_wfg_2::wfg2_phase_time_switch" : [ 0.0 ],
+					"vs_wfg_2::wfg2_pm" : [ -0.307086614173228 ],
+					"vs_wfg_2::wfg2_pw" : [ 52.750628866141753 ],
+					"vs_wfg_2::wfg2_pwm" : [ 0.035433070866142 ],
+					"vs_wfg_2::wfg2_sync_lock" : [ 0.0 ],
+					"vs_wfg_2::wfg2_time" : [ 5.0 ],
+					"vs_wfg_2::wfg2_time_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_wf" : [ 2.0 ],
+					"vs_offset+rot::offrot_anglemenu" : [ 5.0 ],
+					"vs_offset+rot::offrot_x_range" : [ 2.0 ],
+					"vs_offset+rot::offrot_y_range" : [ 2.0 ],
+					"vs_offset+rot::a_lock" : [ 0.0 ],
+					"vs_offset+rot::offrot_angle" : [ -119.055118110236165 ],
+					"vs_offset+rot::offrot_boundmode" : [ 2.0 ],
+					"vs_offset+rot::offrot_x" : [ 0.322834645669293 ],
+					"vs_offset+rot::offrot_y" : [ 0.244094488188976 ],
+					"vs_offset+rot::offrot_zoom" : [ 0.553700787401577 ],
+					"oscil8r::masterosc" : [ 1.574803149606299 ],
+					"oscil8r::onstate" : [ 1 ],
+					"oscil8r::phase1" : [ 0.590551181102362 ],
+					"oscil8r::mult1" : [ 4.968503937007874 ],
+					"oscil8r::wave1" : [ 0.0 ],
+					"vs_filter_lp4x::lpf_freq" : [ 0.25 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"vs_output::lowl_x" : [ 0.0 ],
+					"vs_output::lowl_y" : [ 1.0 ],
+					"vs_output::lowr_x" : [ 1.0 ],
+					"vs_output::lowr_y" : [ 1.0 ],
+					"vs_output::uppl_x" : [ 0.0 ],
+					"vs_output::uppl_y" : [ 0.0 ],
+					"vs_output::uppr_x" : [ 1.0 ],
+					"vs_output::uppr_y" : [ 0.0 ],
+					"vs_wfg_2::wfg2_freq_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_fm_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_pm_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_fm" : [ 1.0 ],
+					"vs_wfg_2::wfg2_freq" : [ 714.803149606299144 ],
+					"vs_wfg_2::wfg2_phase" : [ 0.0 ],
+					"vs_wfg_2::wfg2_phase_time_switch" : [ 0.0 ],
+					"vs_wfg_2::wfg2_pm" : [ -0.307086614173228 ],
+					"vs_wfg_2::wfg2_pw" : [ 52.750628866141753 ],
+					"vs_wfg_2::wfg2_pwm" : [ 0.035433070866142 ],
+					"vs_wfg_2::wfg2_sync_lock" : [ 0.0 ],
+					"vs_wfg_2::wfg2_time" : [ 5.0 ],
+					"vs_wfg_2::wfg2_time_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_wf" : [ 2.0 ],
+					"vs_offset+rot::offrot_anglemenu" : [ 5.0 ],
+					"vs_offset+rot::offrot_x_range" : [ 2.0 ],
+					"vs_offset+rot::offrot_y_range" : [ 2.0 ],
+					"vs_offset+rot::a_lock" : [ 0.0 ],
+					"vs_offset+rot::offrot_angle" : [ -119.055118110236165 ],
+					"vs_offset+rot::offrot_boundmode" : [ 2.0 ],
+					"vs_offset+rot::offrot_x" : [ 0.322834645669293 ],
+					"vs_offset+rot::offrot_y" : [ 0.244094488188976 ],
+					"vs_offset+rot::offrot_zoom" : [ 0.553700787401577 ],
+					"oscil8r::masterosc" : [ 1.574803149606299 ],
+					"oscil8r::onstate" : [ 1 ],
+					"oscil8r::phase1" : [ 0.590551181102362 ],
+					"oscil8r::mult1" : [ 4.968503937007874 ],
+					"oscil8r::wave1" : [ 0.0 ],
+					"vs_filter_lp4x::lpf_freq" : [ 0.25 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"vs_output::lowl_x" : [ 0.0 ],
+					"vs_output::lowl_y" : [ 1.0 ],
+					"vs_output::lowr_x" : [ 1.0 ],
+					"vs_output::lowr_y" : [ 1.0 ],
+					"vs_output::uppl_x" : [ 0.0 ],
+					"vs_output::uppl_y" : [ 0.0 ],
+					"vs_output::uppr_x" : [ 1.0 ],
+					"vs_output::uppr_y" : [ 0.0 ],
+					"vs_wfg_2::wfg2_freq_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_fm_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_pm_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_fm" : [ 1.0 ],
+					"vs_wfg_2::wfg2_freq" : [ 56.220472440944881 ],
+					"vs_wfg_2::wfg2_phase" : [ 0.0 ],
+					"vs_wfg_2::wfg2_phase_time_switch" : [ 0.0 ],
+					"vs_wfg_2::wfg2_pm" : [ -0.307086614173228 ],
+					"vs_wfg_2::wfg2_pw" : [ 52.750628866141753 ],
+					"vs_wfg_2::wfg2_pwm" : [ 0.035433070866142 ],
+					"vs_wfg_2::wfg2_sync_lock" : [ 0.0 ],
+					"vs_wfg_2::wfg2_time" : [ 5.0 ],
+					"vs_wfg_2::wfg2_time_range" : [ 0.0 ],
+					"vs_wfg_2::wfg2_wf" : [ 2.0 ],
+					"vs_offset+rot::offrot_anglemenu" : [ 5.0 ],
+					"vs_offset+rot::offrot_x_range" : [ 2.0 ],
+					"vs_offset+rot::offrot_y_range" : [ 2.0 ],
+					"vs_offset+rot::a_lock" : [ 0.0 ],
+					"vs_offset+rot::offrot_angle" : [ -119.055118110236165 ],
+					"vs_offset+rot::offrot_boundmode" : [ 2.0 ],
+					"vs_offset+rot::offrot_x" : [ 0.322834645669293 ],
+					"vs_offset+rot::offrot_y" : [ 0.244094488188976 ],
+					"vs_offset+rot::offrot_zoom" : [ 0.553700787401577 ],
+					"oscil8r::masterosc" : [ 1.574803149606299 ],
+					"oscil8r::onstate" : [ 1 ],
+					"oscil8r::phase1" : [ 0.590551181102362 ],
+					"oscil8r::mult1" : [ 4.968503937007874 ],
+					"oscil8r::wave1" : [ 0.0 ],
+					"vs_filter_lp4x::lpf_freq" : [ 0.25 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

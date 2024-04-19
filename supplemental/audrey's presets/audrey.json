@@ -1,0 +1,48 @@
+{
+	"pattrstorage" : 	{
+		"name" : "audrey",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"scene1-rotatex" : [ 76.0 ],
+					"scene1-rotatey" : [ 54.0 ],
+					"scene1-rrotatez" : [ 433.0 ],
+					"texswitcher" : [ 0.0 ],
+					"node1-power" : [ 1 ],
+					"node2-power" : [ 0 ]
+				}
+
+			}
+,
+			"2" : 			{
+				"id" : 2,
+				"data" : 				{
+					"scene1-rotatex" : [ -44.0 ],
+					"scene1-rotatey" : [ 234.0 ],
+					"scene1-rrotatez" : [ 364.0 ],
+					"texswitcher" : [ 0.0 ],
+					"node1-power" : [ 1 ],
+					"node2-power" : [ 0 ]
+				}
+
+			}
+,
+			"3" : 			{
+				"id" : 3,
+				"data" : 				{
+					"scene1-rotatex" : [ -44.0 ],
+					"scene1-rotatey" : [ 234.0 ],
+					"scene1-rrotatez" : [ 364.0 ],
+					"texswitcher" : [ 1.0 ],
+					"node1-power" : [ 0 ],
+					"node2-power" : [ 1 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}

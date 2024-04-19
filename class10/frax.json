@@ -1,0 +1,76 @@
+{
+	"pattrstorage" : 	{
+		"name" : "frax",
+		"slots" : 		{
+			"1" : 			{
+				"id" : 1,
+				"data" : 				{
+					"bfgener8r::zoom-mult" : [ 0 ],
+					"bfgener8r::lozoom" : [ 1.0 ],
+					"bfgener8r::hizoom" : [ 1.0 ],
+					"bfgener8r::speed" : [ 0.0 ],
+					"bfgener8r::colorize_1" : [ 1.385485840877852 ],
+					"bfgener8r::colorize_2" : [ 1.561653419729006 ],
+					"bfgener8r::colorize_3" : [ 1.711181013489595 ],
+					"bfgener8r::bfg_selection" : [ 5.0 ],
+					"bfgener8r::bfgenerator_UI::distorted_controls::distortion_val" : [ 1.0 ],
+					"bfgener8r::bfgenerator_UI::noise_voronoi_controls::noise-voroni-jitter" : [ 0.5 ],
+					"bfgener8r::bfgenerator_UI::noise_voronoi_smooth_controls::noise_voronoi_smooth_jitter" : [ 0.5 ],
+					"bfgener8r::bfgenerator_UI::noise_voronoi_smooth_controls::noise_voronoi_smooth_smooth" : [ 16.0 ],
+					"bfgener8r::bfgenerator_UI::noise_voronoise_controls::noise_voronoise_jitter" : [ 0.5 ],
+					"bfgener8r::bfgenerator_UI::noise_voronoise_controls::noise_voronoise_amount" : [ 0.0 ],
+					"bfgener8r::bfgenerator_UI::noise_voronoi_id_controls::noise_voronoi_id_jitter" : [ 0.5 ],
+					"bfgener8r::bfgenerator_UI::noise_voronoi_id_controls::noise_voronoi_id_shading" : [ 0.5 ],
+					"bfgener8r::bfgenerator_UI::noise_voronoi_crackle_controls::noise_voronoi_crackle_jitter" : [ 0.0 ],
+					"bfgener8r::bfgenerator_UI::noise_voronoi_crackle_controls::noise_voronoi_crackle_x" : [ 8.0 ],
+					"bfgener8r::bfgenerator_UI::noise_voronoi_crackle_controls::noise_voronoi_crackle_y" : [ 2.0 ],
+					"bfgener8r::bfgenerator_UI::noise_voronoi_crackle_controls::noise_voronoi_crackle_z" : [ 0.5 ],
+					"bfgener8r::bfgenerator_UI::fractal_rigid_controls::fractal_rgd_H" : [ 0.25 ],
+					"bfgener8r::bfgenerator_UI::fractal_rigid_controls::fractal_rgd_L" : [ 2.0 ],
+					"bfgener8r::bfgenerator_UI::fractal_rigid_controls::fractal_rgd_offset" : [ 0.9 ],
+					"bfgener8r::bfgenerator_UI::fractal_rigid_controls::fractal_rgd_gain" : [ 1.5 ],
+					"bfgener8r::bfgenerator_UI::fractal_hybrid_controls::fractal_hyb_H" : [ 0.25 ],
+					"bfgener8r::bfgenerator_UI::fractal_hybrid_controls::fractal_hyb_L" : [ 3.0 ],
+					"bfgener8r::bfgenerator_UI::fractal_hybrid_controls::fractal_hyb_offset" : [ 0.25 ],
+					"bfgener8r::bfgenerator_UI::fractal_hybrid_controls::fractal_hyb_gain" : [ 0.0 ],
+					"bfgener8r::bfgenerator_UI::fractal_fbm_controls::fractal_fbm_H" : [ 0.5 ],
+					"bfgener8r::bfgenerator_UI::fractal_fbm_controls::fractal_fbm_L" : [ 2.0 ],
+					"bfgener8r::bfgenerator_UI::fractal_fbm_controls::fractal_fbm_offset" : [ 0.0 ],
+					"bfgener8r::bfgenerator_UI::fractal_fbm_controls::fractal_fbm_gain" : [ 0.0 ],
+					"bfgener8r::bfgenerator_UI::fractal_multi_controls::fractal_mlt_H" : [ 1.5 ],
+					"bfgener8r::bfgenerator_UI::fractal_multi_controls::fractal_mlt_L" : [ 1.5 ],
+					"bfgener8r::bfgenerator_UI::fractal_multi_controls::fractal_mlt_offset" : [ 1.5 ],
+					"bfgener8r::bfgenerator_UI::fractal_multi_controls::fractal_mlt_gain" : [ 0.0 ],
+					"bfgener8r::bfgenerator_UI::fractal_hetero_controls::fractal_het_H" : [ 0.5 ],
+					"bfgener8r::bfgenerator_UI::fractal_hetero_controls::fractal_het_L" : [ 2.0 ],
+					"bfgener8r::bfgenerator_UI::fractal_hetero_controls::fractal_het_offset" : [ 0.05 ],
+					"bfgener8r::bfgenerator_UI::fractal_hetero_controls::fractal_het_gain" : [ 0.0 ],
+					"rotatr::angle" : [ 3.920451435230738 ],
+					"rotatr::mode" : [ 3.0 ],
+					"rotatr::x_offset" : [ 0.0 ],
+					"rotatr::y_offset" : [ 0.0 ],
+					"zoomr::mode" : [ 3.0 ],
+					"zoomr::zoom-valL" : [ -0.692 ],
+					"zoomr::zoom-mult" : [ 0 ],
+					"zoomr::zoom-valH" : [ 16.0 ],
+					"lumakeyr::fade-val" : [ 0.984251968503937 ],
+					"lumakeyr::tol" : [ 0.062992125984252 ],
+					"lumakeyr::tol[1]" : [ 0.968503937007874 ],
+					"brcosr::bright-mult" : [ 1 ],
+					"brcosr::cont-mult" : [ 1 ],
+					"brcosr::sat-mult" : [ 1 ],
+					"brcosr::lobr" : [ -0.41828 ],
+					"brcosr::hibr" : [ 0.9 ],
+					"brcosr::loco" : [ -1.0 ],
+					"brcosr::hico" : [ 1.1 ],
+					"brcosr::losa" : [ 1.0 ],
+					"brcosr::hisa" : [ 1.1 ]
+				}
+
+			}
+
+		}
+
+	}
+
+}
